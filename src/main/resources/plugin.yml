@@ -1,0 +1,4 @@
+name: TheRingSkillsAPI
+version: '${project.version}'
+main: com.chilieutenant.theringskillsapi.main
+api-version: 1.19
